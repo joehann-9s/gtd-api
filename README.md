@@ -1,4 +1,4 @@
-# GTD (Getting Things Done)
+# GTD (Getting Things Done) 📝
 <sub><sup>*GTD is an activity management method created by David Allen.</sup></sub>
 
 GTD is a tiny personal application, which I started 'cause I was searching out for methods to organize my tasks.
