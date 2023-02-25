@@ -10,7 +10,7 @@ _test
 build
 dist
 vendor
-
+tmp
 # Files
 .log
 *.test
